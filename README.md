@@ -50,3 +50,5 @@ python app/my_game.py
 ```
 
 > NOTE: if you see an error like "ModuleNotFoundError: No module named 'game_utils'", it's because the "game_utils" package isn't installed, so run the `pip` command above to install that package
+
+Mission Complete
